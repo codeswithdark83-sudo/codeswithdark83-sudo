@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Web Developer | BCA Student<br>I am Jatin Kr. Koli, a 21-year-old Front-end Developer currently in my 4th Semester of BCA. I specialize in building interactive user interfaces using HTML, CSS, JavaScript, and the React.js framework. Passionate about turning complex problems into elegant, responsive designs.
+Full Stack Web Developer | BCA Student<br>I am Jatin Kr. Koli, a 21-year-old Front-end Developer currently in my 4th Semester of BCA. I specialize in building interactive user interfaces using HTML, CSS, JavaScript, and the React.js framework. Passionate about turning complex problems into elegant, responsive designs.
 
 
 ## 🌐 Socials:
